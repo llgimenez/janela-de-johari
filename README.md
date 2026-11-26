@@ -1,15 +1,16 @@
-## Janela de Johari
+# Janela de Johari — Autoconhecimento e Percepção Pessoal
 
-Atividade desenvolvida na disciplina de Autoconhecimento com o objetivo de mapear características pessoais a partir da minha própria percepção e da visão de outras pessoas sobre mim.
+Registro da atividade desenvolvida na disciplina de Autoconhecimento no curso Técnico em Informática para Internet (SESI SENAI Varginha - MG).
 
-Sobre a ferramenta
+## Sobre o Projeto
 
-A Janela de Johari é uma técnica de psicologia cognitiva criada por Joseph Luft e Harrington Ingham para melhorar o autoconhecimento e as relações interpessoais. Ela divide nossas características em quatro quadrantes:
+Elaboramos uma **Janela de Johari** para mapear características pessoais a partir da comparação entre a minha autopercepção e a visão dos colegas. A atividade divide os traços de personalidade em quatro quadrantes (**Aberto**, **Ponto Cego**, **Oculto** e **Desconhecido**), permitindo visualizar pontos fortes e aspectos a serem explorados no convívio pessoal e profissional.
 
-• Aberto (Conhecido por mim e pelos outros): Características que eu reconheço em mim e que também são percebidas pelas pessoas ao meu redor (ex.: alegre, comunicativa, comprometida, flexível, ativa, honesta, confiante, sociável, criativa).
+## O que aprendi
 
-• Ponto Cego (Conhecido pelos outros, mas não por mim): Traços que as pessoas notam no meu comportamento, mas que eu nem sempre percebo claramente (ex.: responsável, reservada, observadora, tolerante, sonhadora, respeitosa, persistente, autêntica, simpática).
+Durante a dinâmica e a troca de feedbacks com a turma, pude refletir sobre como minhas atitudes são percebidas por outras pessoas, identificar qualidades que eu ainda não reconhecia claramente e exercitar a escuta ativa e a empatia.
 
-• Oculto (Conhecido por mim, mas não pelos outros): Aspectos internos, sentimentos e características que eu conheço, mas mantenho mais reservados (ex.: sensível, idealista, ansiosa, reflexiva, visionária, inteligente, dedicada, dinâmica, sincera).
+## Resultado da Atividade
 
-• Desconhecido (Desconhecido por mim e pelos outros): Potencialidades e características que ainda não foram exploradas ou percebidas por ninguém (ex.: organizada, decidida, voluntária, paciente, disciplinada, tranquila, justa, trabalhadora, verdadeira).
+![Janela de Johari](Johari.png)
+
