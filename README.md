@@ -12,5 +12,5 @@ Durante a dinâmica e a troca de feedbacks com a turma, pude refletir sobre como
 
 ## Resultado da Atividade
 
-![Janela de Johari](Johari.png)
+![Janela de Johari](johari.png)
 
